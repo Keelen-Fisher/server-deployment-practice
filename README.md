@@ -44,11 +44,11 @@ thunder client (or the browser for get requests)
 
 deploy staging environment AND production environment to Heroku
 
-[github repo]()
+[github repo](https://github.com/Keelen-Fisher/server-deployment-practice/tree/dev)
 
-[dev deployment]()
+[dev deployment](https://keelenfisher-server-deploy-dev.herokuapp.com/)
 
-[production deployment]()
+[production deployment](https://keelenfish-server-deploy-prod.herokuapp.com/)
 
 ## White Boarding
 
