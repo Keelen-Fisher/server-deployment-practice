@@ -24,11 +24,11 @@ app.use('*', notFound);
 
 app.use(errorHandler);
 
-function start(){
-  app.listen(PORT, () => console.log(`listening on port ${PORT}`)); 
+function start() {
+  app.listen(PORT, () => console.log(`listening on port ${PORT}`));
 };
 
-module.exports = {app, start};
+module.exports = { app, start };
 
 // @param {string} name
 // @returns a greeting message
